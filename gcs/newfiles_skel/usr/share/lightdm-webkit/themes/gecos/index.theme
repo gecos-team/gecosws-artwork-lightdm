@@ -1,0 +1,9 @@
+[Theme]
+Name=GECOS
+Description=GECOS theme based on eOS theme
+engine=lightdm-webkit-greeter
+url=index.html
+session=cinnamon
+Encoding=UTF-8
+Screenshot=screenshot.jpg
+
