@@ -1,0 +1,26 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Gecos v2
+
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: gecosws-artwork-lightdm
+
+# Autor 
+author: Jose Manuel Rodriguez <jmrodriguez@gruposolutia.com>
+
+# Priority
+priority: optional
+
+# Section
+section: metapackages
+
+shortdesc: "Gecos LightDM theme"
+
+longdesc: "This package contains every GECOS LightDM theme file."
+
+# Versión del paquete
+version: 1.0
+
+# Cambios en esta versión
+changes:
+    - initial release
