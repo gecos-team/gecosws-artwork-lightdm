@@ -14,7 +14,7 @@ priority: optional
 # Section
 section: metapackages
 
-shortdesc: "Gecos LightDM theme"
+shortdesc: "GECOS LightDM theme"
 
 longdesc: "This package contains every GECOS LightDM theme file."
 
